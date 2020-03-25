@@ -1,7 +1,7 @@
 ## Projects
 
-[History matching a toy model in waves.](https://dougmcneall.github.io/waves/docs/hmwave_demo_0.html)  
-[Weighting the CMIP6 ensemble by tas performace using the Sanderson et al. (2017) scheme](https://dougmcneall.github.io/cmip6/docs/tas_weighting.html)  
+[History matching a toy model in waves.](https://dougmcneall.github.io/waves/hmwave_demo_0.html)  
+[Weighting the CMIP6 ensemble by tas performace using the Sanderson et al. (2017) scheme](https://dougmcneall.github.io/cmip6/tas_weighting.html)  
 
 
 ## Welcome to GitHub Pages
