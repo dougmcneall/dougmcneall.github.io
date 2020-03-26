@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Doug McNeall's github homepage
 description: Useful code for working with climate models
-avatar: "/img/f1ccdd147f04bd135f5919063ea9bb1a.jpeg"
+avatar: /img/f1ccdd147f04bd135f5919063ea9bb1a.jpeg
 social-network-links:
   rss: true
   email: "someone@example.com"
