@@ -1,3 +1,5 @@
+![Image](/img/f1ccdd147f04bd135f5919063ea9bb1a.jpeg)
+
 ## Projects
 
 [History matching a toy model in waves.](https://dougmcneall.github.io/waves/hmwave_demo_0.html)  
