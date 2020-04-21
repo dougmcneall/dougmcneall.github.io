@@ -1,8 +1,16 @@
 ## Projects
 
  - [History matching a toy model in waves.](https://dougmcneall.github.io/waves/hmwave_demo_0.html)  
+ 
  - [Weighting the CMIP6 ensemble by tas performance using the Sanderson et al. (2017) scheme](https://dougmcneall.github.io/cmip6/tas_weighting.html)  
+ 
  - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
+ 
+ ## Paper code
+ 
+ - [McNeall, D, J.williams, B.Booth, R. Betts, P.Challenor, P. Good and A. Wiltshire (2020) "Correcting a climate model bias with an augmented emulator", accepted for Geoscientific Model Development](https://github.com/dougmcneall/augmented_emulator)
+ 
+ - [McNeall, D., J. Williams, B. Booth, R. Betts, P. Challenor, A. Wiltshire, and D. Sexton (2016) "The impact of structural error on parameter constraint in a climate model", Earth System Dynamics](https://github.com/dougmcneall/famous-git)
 
 
 ## Welcome to GitHub Pages
