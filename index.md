@@ -6,6 +6,12 @@
  
  - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
  
+ ## Covid
+ 
+  - [Create a latin hypercube design for MetaWards parameters](https://dougmcneall.github.io/covid/create_design_MetaWards.html)
+  
+  - [Sensitivity analysis of MetaWards with an emulator](https://dougmcneall.github.io/covid/sensitivity_analysis_MetaWards.html)
+ 
  ## Paper code
  
  - [McNeall, D, J.williams, B.Booth, R. Betts, P.Challenor, P. Good and A. Wiltshire (2020) "Correcting a climate model bias with an augmented emulator", accepted for Geoscientific Model Development](https://github.com/dougmcneall/augmented_emulator)
