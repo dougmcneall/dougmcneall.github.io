@@ -18,11 +18,9 @@
  
  - [McNeall, D., J. Williams, B. Booth, R. Betts, P. Challenor, A. Wiltshire, and D. Sexton (2016) "The impact of structural error on parameter constraint in a climate model", Earth System Dynamics](https://github.com/dougmcneall/famous-git)
 
+## Other stuff
 
-
-
-
-
+- [Local Coronavirus tracker](https://dougmcneall.github.io/covid/local_coronavirus.html)
 
 
 
