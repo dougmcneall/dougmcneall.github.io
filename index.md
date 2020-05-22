@@ -12,7 +12,7 @@
   
   - [Sensitivity analysis of MetaWards with an emulator](https://dougmcneall.github.io/covid/sensitivity_analysis_MetaWards.html)
   
-  -[Sensitivity analysis of national cumulative infections at lockdown](https://dougmcneall.github.io/covid/(https://dougmcneall.github.io/covid/sensitivity_analysis_MetaWards.html))
+  - [Sensitivity analysis of national cumulative infections at lockdown](https://dougmcneall.github.io/covid/sensitivity_analysis_MetaWards.html)
  
  ## Paper code
  
