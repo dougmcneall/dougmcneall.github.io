@@ -14,7 +14,7 @@
   
   - [Sensitivity analysis of MetaWards - national cumulative infections at lockdown](https://dougmcneall.github.io/covid/cumulative_infections_at_lockdown_sensitivity.html)
   
-  - [Weekly new COVID cases in England (data vignette)](https://dougmcneall.github.io/covid/weekly_new_cases.html)
+  - [Weekly new COVID cases in England (data vignette)](https://dougmcneall.github.io/covid/weekly_new_cases_data.html)
     
   - [Local Coronavirus tracker](https://dougmcneall.github.io/covid/local_coronavirus.html)
  
