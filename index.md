@@ -18,7 +18,7 @@
     
 - [Local Coronavirus tracker](https://dougmcneall.github.io/covid/local_coronavirus.html)
  
- ## Paper code
+## Paper code
  
 - [McNeall, D, J.williams, B.Booth, R. Betts, P.Challenor, P. Good and A. Wiltshire (2020) "Correcting a climate model bias with an augmented emulator", accepted for Geoscientific Model Development](https://github.com/dougmcneall/augmented_emulator)
  
