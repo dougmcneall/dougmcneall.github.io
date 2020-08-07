@@ -3,8 +3,10 @@
 - [History matching a toy model in waves.](https://dougmcneall.github.io/waves/hmwave_demo_0.html)  
  
 - [Weighting the CMIP6 ensemble by tas performance using the Sanderson et al. (2017) scheme](https://dougmcneall.github.io/cmip6/tas_weighting.html)  
+
+- [Passing warming levels in the CMIP6 ensemble](https://dougmcneall.github.io/cmip6/cmip6_warming_levels.html)
  
- - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
+- [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
  
 ## Covid
  
