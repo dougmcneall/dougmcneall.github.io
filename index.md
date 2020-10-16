@@ -7,6 +7,8 @@
 - [Passing warming levels in the CMIP6 ensemble](https://dougmcneall.github.io/cmip6/cmip6_warming_levels.html)
  
 - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
+
+- [Constraining the input space of an Earth system configuration of JULES](https://dougmcneall.github.io/jules_ppe/explore-JULES-ES-1p0_PPE.html)
  
 ## Covid
  
