@@ -10,6 +10,8 @@
 
 - [Constraining the input space of an Earth system configuration of JULES](https://dougmcneall.github.io/jules_ppe/explore-JULES-ES-1p0_PPE.html)
 
+- [History matching an Earth system configuration of JULES](https://dougmcneall.github.io/jules_ppe/constrain-JULES-ES-1p0.html)
+
 - [The uncertainty quantification process for JULES]( https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html) 
  
 ## Covid
