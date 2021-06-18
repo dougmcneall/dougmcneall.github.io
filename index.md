@@ -28,7 +28,7 @@
 
 - [Metawards Wave03 sensitivity analysis with DiceKriging](https://dougmcneall.github.io/covid/wave_03_test.nb.html)
 
-- [Metawards Wave04 sensitivity analysis with DiceKriging](https://dougmcneall.github.io/covid/wave_04_test.nb.html)
+- [Metawards Wave04 sensitivity analysis with DiceKriging](https://dougmcneall.github.io/covid/wave04_test.nb.html)
     
 - [Local Coronavirus tracker](https://dougmcneall.github.io/covid/local_coronavirus.html)
  
