@@ -14,6 +14,8 @@
 
 - [History matching an Earth system configuration of JULES (notebook)](https://dougmcneall.github.io/jules_ppe/constrain-JULES-ES-1p0.nb.html)
 
+- [A new design at NROY inputs for JULES-ES-1p0 (wave01)](https://dougmcneall.github.io/jules_ppe/design-JULES-ES-1p0-wave01.html)
+
 - [The uncertainty quantification process for JULES](https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html) 
 
 - [Expressing Uncertainty in TCR](https://dougmcneall.github.io/at2degreesgit/tcr_distributions.html)
