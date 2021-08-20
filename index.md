@@ -13,6 +13,8 @@
 - [History matching an Earth system configuration of JULES](https://dougmcneall.github.io/jules_ppe/constrain-JULES-ES-1p0.html)
 
 - [History matching an Earth system configuration of JULES (notebook)](https://dougmcneall.github.io/jules_ppe/constrain-JULES-ES-1p0.nb.html)
+ 
+- [Sensitivity analysis of an Earth system configuration of JULES (notebook)](https://dougmcneall.github.io/jules_ppe/sensitivity-JULES-ES-1p0.nb.html)
 
 - [A new design at NROY inputs for JULES-ES-1p0 (wave01)](https://dougmcneall.github.io/jules_ppe/design-JULES-ES-1p0-wave01.html)
 
