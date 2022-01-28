@@ -18,7 +18,7 @@
 
 - [A new design at NROY inputs for JULES-ES-1p0 (wave01)](https://dougmcneall.github.io/jules_ppe/design-JULES-ES-1p0-wave01.html)
 
-- [Analysis of JULES-ES-1p0 Wave01](https://dougmcneall.github.io/jules_ppe/emulate-JULES-ES-1p0-wave01.nb.html)
+- [Analysis of JULES-ES-1p0 Wave01](https://dougmcneall.github.io/jules_ppe/wave01-JULES-ES-1p0.nb.html)
 
 - [The uncertainty quantification process for JULES](https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html) 
 
