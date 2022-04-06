@@ -10,7 +10,7 @@
 
 ### JULES
 
-- [Analysis of JULES-ES-1p0 Wave01 (in progress)](https://dougmcneall.github.io/jules_ppe/wave01-JULES-ES-1p0.html) 
+- [Analysis of JULES-ES-1p0 Wave01 (in progress)](https://dougmcneall.github.io/jules_ppe/wave01-JULES-ES-1p0.nb.html) 
 
 - [Sensitivity analysis of an Earth system configuration of JULES (notebook)](https://dougmcneall.github.io/jules_ppe/sensitivity-JULES-ES-1p0.nb.html)
 
