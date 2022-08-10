@@ -10,6 +10,8 @@
 
 ### JULES
 
+- [Analysis of JULES-ES-1p0 Wave01 SSP585 (in progress)](https://dougmcneall.github.io/jules_ppe/explore-JULES-ES-1p0_PPE-SSP585.nb.html) 
+
 - [Analysis of JULES-ES-1p0 Wave01 (in progress)](https://dougmcneall.github.io/jules_ppe/wave01-JULES-ES-1p0.nb.html) 
 
 - [Sensitivity analysis of an Earth system configuration of JULES (notebook)](https://dougmcneall.github.io/jules_ppe/sensitivity-JULES-ES-1p0.nb.html)
