@@ -58,7 +58,7 @@
  
 - [Predicting the targeting of tail-anchored proteins to subcellular compartments in mammalian cells](https://dougmcneall.github.io/protein/protein.html)
 
-- [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/main/endrainbow_analysis.html) 
+- [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/endrainbow_analysis.html) 
  
  
 
