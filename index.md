@@ -54,11 +54,17 @@
  
 - [McNeall, D., J. Williams, B. Booth, R. Betts, P. Challenor, A. Wiltshire, and D. Sexton (2016) "The impact of structural error on parameter constraint in a climate model", Earth System Dynamics](https://github.com/dougmcneall/famous-git)
  
+## Student projects
+
+- [climate model run-failure emulator](https://dougmcneall.github.io/failure-emulator/failure-svn.html)
+  
+- [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/endrainbow_analysis.html) 
+
 ## Other stuff
  
 - [Predicting the targeting of tail-anchored proteins to subcellular compartments in mammalian cells](https://dougmcneall.github.io/protein/protein.html)
 
-- [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/endrainbow_analysis.html) 
+
  
  
 
