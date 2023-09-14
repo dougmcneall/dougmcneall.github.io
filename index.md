@@ -56,7 +56,9 @@
  
 ## Student projects
 
-- [climate model run-failure emulator](https://dougmcneall.github.io/failure-emulator/failure-svm.html)
+- [climate model run-failure emulator (SVM)](https://dougmcneall.github.io/failure-emulator/failure-svm.html)
+  
+-  [climate model run-failure emulator (random forest)](https://dougmcneall.github.io/failure-emulator/failure-randomforest.html)
   
 - [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/endrainbow_analysis.html) 
 
