@@ -60,6 +60,8 @@
   
 -  [climate model run-failure emulator (random forest)](https://dougmcneall.github.io/failure-emulator/failure-randomforest.html)
   
+- [High dimensional Gaussian Process emulator through PCA](https://dougmcneall.github.io/hd-emulator/explore-jules-timeseries-emulate.html)
+  
 - [#endrainbow tweets analysis](https://dougmcneall.github.io/endrainbow/endrainbow_analysis.html) 
 
 ## Other stuff
