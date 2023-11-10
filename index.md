@@ -24,7 +24,9 @@
 
 - [Emulator accuracy for JULES-ES-1p0](https://dougmcneall.github.io/jules_ppe/emulate-JULES-ES-1p0.nb.html)
 
-- [The uncertainty quantification process for JULES](https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html) 
+- [The uncertainty quantification process for JULES](https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html)
+  
+- [Emulate JULES timeseries](https://dougmcneall.github.io/hd-emulator/emulate-jules-all-timeseries.html)
 
 ### Older JULES
 - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
