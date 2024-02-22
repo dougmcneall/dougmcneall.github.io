@@ -27,6 +27,8 @@
 - [The uncertainty quantification process for JULES](https://dougmcneall.github.io/jules_ppe/JULES-PPE-process.html)
   
 - [Emulate JULES timeseries](https://dougmcneall.github.io/hd-emulator/emulate-jules-all-timeseries.html)
+  
+- [Calibrated prediction of JULES timeseries v1](https://dougmcneall.github.io/jules_ppe/calibrated-projection-v1.html)
 
 ### Older JULES
 - [Visualising the input space of a large ensemble of the land surface model JULES](https://dougmcneall.github.io/brazil_cssp/es_ppe_ii_viz.html)
